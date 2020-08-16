@@ -1,7 +1,1 @@
-{
-  "default": true,
-  "MD025": {
-    "front_matter_title": ""
-  },
-  "MD041": true
-}
+exclude_rule 'MD025'
